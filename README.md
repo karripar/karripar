@@ -3,6 +3,7 @@
 
 # Karripar
 Welcome to my GitHub profile. Make sure to take a look at some of my latest projects and shenanigans. Second year student majoring in Web Development and Digital Media.
+
 My personal resume: [Click here](https://users.metropolia.fi/~karripar/js-exercises/mypage/)
 
 
