@@ -8,7 +8,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karripar&show_icons=true&locale=en&layout=compact" alt="karripar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karripar&" alt="karripar" /></p>
+
 
 
 
