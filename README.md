@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi, I'm Karri!</h1>
 <h3 align="center">Motivated & Passionate Web Developer from Espoo, Finland 🇫🇮</h3>
-<h4 align="center">Currently in my third year of studies 🎓</h4>
+<h4 align="center">Starting my final year of studies this Fall 🎓</h4>
 
 ---
 
-<p align="center">Don't mind the smaller repo count — I cleaned things up recently, but I promise I’m building cool stuff!</p>
+<p align="center">Focused on scalable and user-friendly fullstack applications. Proficient with TypeScript, React, Python and Node.js!</p>
 
 ---
 
